@@ -7,9 +7,12 @@
       <module fileurl="file://$PROJECT_DIR$/Encapsulations/Encapsulations.iml" filepath="$PROJECT_DIR$/Encapsulations/Encapsulations.iml" />
       <module fileurl="file://$PROJECT_DIR$/FieldAndAttributes/FieldAndAttributes.iml" filepath="$PROJECT_DIR$/FieldAndAttributes/FieldAndAttributes.iml" />
       <module fileurl="file://$PROJECT_DIR$/GetterAndSetters/GetterAndSetters.iml" filepath="$PROJECT_DIR$/GetterAndSetters/GetterAndSetters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCampProjects.iml" filepath="$PROJECT_DIR$/JavaCampProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/Parameters/Parameters.iml" filepath="$PROJECT_DIR$/Parameters/Parameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphisim/Polymorphisim.iml" filepath="$PROJECT_DIR$/Polymorphisim/Polymorphisim.iml" />
       <module fileurl="file://$PROJECT_DIR$/ValueAndReferenceTypes/ValueAndReferenceTypes.iml" filepath="$PROJECT_DIR$/ValueAndReferenceTypes/ValueAndReferenceTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariableArguments/VariableArguments.iml" filepath="$PROJECT_DIR$/VariableArguments/VariableArguments.iml" />
     </modules>
